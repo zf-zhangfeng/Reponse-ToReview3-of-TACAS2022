@@ -2,8 +2,6 @@
 
 Thank you very much for carefully reviewing our work, we will improve our draft according to your valuable comments, remove the typos and make the presentation more clear. 
 
-
-7.	The refinement of the transition relation in this paper is the same as in our previous paper [27]. We will explain this refinement in the draft. 
 8.	We are very sorry that we can’t describe clearly the transition relation “\phi”: Firstly, the \phi indeed defines a transition relation rather than a function. Secondly, this transition relation is used in the execution of the OS model, which can be used to generate the operational semantics.
 9.	We think that it’s difficult to ensure that the formalization actually captures the semi-formal standard description. Specification validation and test can help to address this problem, which actually has been partially carried out in our work. The conformity proof also helps to address this challenge. 
 10.	At the end of Section 2, "... multiple partitions execute on different cores concurrently", we should not substitute "concurrently" with "simultaneously". We can use "parallelly", but researchers rarely use the word "simultaneously" in the context of concurrent and parallel executing.
